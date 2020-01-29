@@ -31,7 +31,7 @@ _____________________________________________________________
 	>
 	
 	*Ciclo de vida de la construcción*
-	>![](https://jarroba.com/wp-content/uploads/2015/01/Maven-trabaja-por-ti-www.jarroba.com_.png)
+	>![](https://jarroba.com/wp-content/uploads/2015/01/Maven-trabaja-por-ti-www.jarroba.com_.PNG)
 	
 	
 	*Para qué sirven los plugins*
@@ -47,23 +47,23 @@ _____________________________________________________________
 - **Crear Un Proyecto Maven**
 
 	>
-	>![](parte 1.png)
-	>![](parte 1.1.png)
-	>![](parte 1.2.png)
+	>![](parte 1.PNG)
+	>![](parte 1.1.PNG)
+	>![](parte 1.2.PNG)
 	>
 	
 - **Ajustar Algunas Configuraciones En El Proyecto**
 	
 	>
-	>![](parte 2.png)
-	>![](parte 2.1.png)
+	>![](parte 2.PNG)
+	>![](parte 2.1.PNG)
 	>
 	
 - **Compilar y Ejecutar**
 
 	>
-	>![](parte 3.png)
-	>![](parte 3.1.png)
+	>![](parte 3.PNG)
+	>![](parte 3.1.PNG)
 	>
 	
 - **Hacer El Esqueleto De La Aplicacion**
@@ -73,18 +73,18 @@ _____________________________________________________________
 	>
 	> ***Sin parámetros***
 	> Envia un mensaje donde solicita los parametros
-	>![](parte 4.png)
+	> ![](parte 4.PNG)
 	>
 	> ***Parámetro: qwerty***
 	> Envia un mensaje donde informa que es un parametro invalido
-	>![](parte 4.1.png)
+	> ![](parte 4.1.PNG)
 	>
 	> ***Parámetro: pentagon***
 	> Informa la cantidad de lados del Pentagono
-	>![](parte 4.2.png)
+	> ![](parte 4.2.PNG)
 	>
 	> ***Parámetro Hexagon***
 	>  Informa la cantidad de lados del Hexagono
-	>![](parte 4.3.png)
+	> ![](parte 4.3.PNG)
 	>
 	
