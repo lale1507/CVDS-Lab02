@@ -31,7 +31,7 @@ _____________________________________________________________
 	>
 	
 	*Ciclo de vida de la construcción*
-	>![](https://jarroba.com/wp-content/uploads/2015/01/Maven-trabaja-por-ti-www.jarroba.com_.PNG)
+	>![](https://jarroba.com/wp-content/uploads/2015/01/Maven-trabaja-por-ti-www.jarroba.com_.png)
 	
 	
 	*Para qué sirven los plugins*
