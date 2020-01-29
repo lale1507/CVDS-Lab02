@@ -61,10 +61,10 @@ _____________________________________________________________
 	
 - **Compilar y Ejecutar**
 
-	>
-	>![](parte 3.PNG)
-	>![](parte 3.1.PNG)
-	>
+	
+	![](parte 3.PNG)
+	![](parte 3.1.PNG)
+	
 	
 - **Hacer El Esqueleto De La Aplicacion**
 
