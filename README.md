@@ -78,14 +78,14 @@ _____________________________________________________________
 	>
 	> ***Parámetro: qwerty***
 	> Envia un mensaje donde informa que es un parametro invalido
-	> ![](parte 4.1.PNG)
+	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.1.PNG)
 	>
 	> ***Parámetro: pentagon***
 	> Informa la cantidad de lados del Pentagono
-	> ![](parte 4.2.PNG)
+	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.2.PNG)
 	>
 	> ***Parámetro Hexagon***
 	>  Informa la cantidad de lados del Hexagono
-	> ![](parte 4.3.PNG)
+	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.3.PNG)
 	>
 	
