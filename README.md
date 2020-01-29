@@ -47,9 +47,9 @@ _____________________________________________________________
 - **Crear Un Proyecto Maven**
 
 	>
-	>![](parte 1.PNG)
-	>![](parte 1.1.PNG)
-	>![](parte 1.2.PNG)
+	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%201.PNG)
+	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%201.1.PNG)
+	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%201.2.PNG)
 	>
 	
 - **Ajustar Algunas Configuraciones En El Proyecto**
