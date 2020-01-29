@@ -73,7 +73,7 @@ _____________________________________________________________
 	>
 	> ***Sin parámetros***
 	> Envia un mensaje donde solicita los parametros
-	> ![](parte 4.PNG)
+	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.PNG)
 	>
 	> ***Parámetro: qwerty***
 	> Envia un mensaje donde informa que es un parametro invalido
