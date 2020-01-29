@@ -55,15 +55,16 @@ _____________________________________________________________
 - **Ajustar Algunas Configuraciones En El Proyecto**
 	
 	>
-	>![](parte 2.PNG)
-	>![](parte 2.1.PNG)
+	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%202.PNG)
+	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%202.1.PNG)
 	>
 	
 - **Compilar y Ejecutar**
-	![](main.png)
-	
-	![](parte 3.PNG)
-	![](parte 3.1.PNG)
+
+	>
+	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%203.PNG)
+	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%203.1.PNG)
+	>
 	
 	
 - **Hacer El Esqueleto De La Aplicacion**
