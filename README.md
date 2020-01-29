@@ -73,18 +73,22 @@ _____________________________________________________________
 	>*¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?*
 	>
 	> ***Sin parámetros***
+	>
 	> Envia un mensaje donde solicita los parametros
 	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.PNG)
 	>
 	> ***Parámetro: qwerty***
+	>
 	> Envia un mensaje donde informa que es un parametro invalido
 	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.1.PNG)
 	>
-	> ***Parámetro: pentagon***
+	>***Parámetro: pentagon***
+	>
 	> Informa la cantidad de lados del Pentagono
 	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.2.PNG)
 	>
 	> ***Parámetro Hexagon***
+	>
 	>  Informa la cantidad de lados del Hexagono
 	> ![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%204.3.PNG)
 	>
