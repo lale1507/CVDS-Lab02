@@ -66,9 +66,11 @@ _____________________________________________________________
 
 	>
 	> Salida original de App.java
+	>
 	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%203.PNG)
 	>
 	> Salida de App.java modificada
+	>
 	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%203.1.PNG)
 	>
 	
