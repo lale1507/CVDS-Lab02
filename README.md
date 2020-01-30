@@ -27,7 +27,7 @@ _____________________________________________________________
 	>
 	>**Install** (Instala el paquete, para poder ser usado como repositorio local)
 	>
-	>**Deploy*+ (Realiza la copia del paquete en un repositorio)
+	>**Deploy** (Realiza la copia del paquete en un repositorio)
 	>
 	
 	*Ciclo de vida de la construcción*
