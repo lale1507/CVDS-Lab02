@@ -15,19 +15,19 @@ _____________________________________________________________
 	>
 	>Una [fase en Maven](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html) representa una etapa del ciclo de vida de construccion y es responsable de una tarea.
 	>
-	>*Validate* (Verifica que un proyecto es correcto y que contiene toda la informacion)
+	>**Validate** (Verifica que un proyecto es correcto y que contiene toda la informacion)
 	>
-	>*Compile* (compliar el código)
+	>**Compile** (compliar el código)
 	>
-	>*Test* (Realiza prueba del codigo fuente)
+	>**Test** (Realiza prueba del codigo fuente)
 	>
-	>*Package* (Empaqueta el codigo en formato JAR)
+	>**Package** (Empaqueta el codigo en formato JAR)
 	>
-	>*Verify* (Verificacion de los resultados de las pruebas, esto garantiza los criteriso de calidad)
+	>**Verify** (Verificacion de los resultados de las pruebas, esto garantiza los criteriso de calidad)
 	>
-	>*Install* (Instala el paquete, para poder ser usado como repositorio local)
+	>**Install** (Instala el paquete, para poder ser usado como repositorio local)
 	>
-	>*Deploy* (Realiza la copia del paquete en un repositorio)
+	>**Deploy*+ (Realiza la copia del paquete en un repositorio)
 	>
 	
 	*Ciclo de vida de la construcción*
