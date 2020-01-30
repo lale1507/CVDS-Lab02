@@ -55,14 +55,20 @@ _____________________________________________________________
 - **Ajustar Algunas Configuraciones En El Proyecto**
 	
 	>
+	>Archivo original del <pom.xml>
 	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%202.PNG)
+	>
+	>Archivo <pom.xml> modificando version del compilador de Java
 	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%202.1.PNG)
 	>
 	
 - **Compilar y Ejecutar**
 
 	>
+	> Salida original de App.java
 	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%203.PNG)
+	>
+	> Salida de App.java modificada
 	>![](https://github.com/lale1507/CVDS-Lab02/blob/master/parte%203.1.PNG)
 	>
 	
